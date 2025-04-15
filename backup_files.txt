@@ -1,0 +1,8 @@
+/home/karantheog/contri/tp1/Cpp_books/C++ Atomics, From Basic to Advanced - Fedor Pikus - CppCon 2017 (1).pdf
+/home/karantheog/contri/tp1/Cpp_books/- C++ High Performance-Packt Publishing (2020) 2nd Ed.pdf
+/home/karantheog/contri/tp1/Cpp_books/Effective-Modern-C++Scott Meyers.pdf
+/home/karantheog/contri/tp1/Cpp_books/Expert_C_Programming.pdf
+/home/karantheog/contri/tp1/Cpp_books/Graham M. Seed BEng, MPhil, PhD, MIAP (auth.) - An Introduction to Object-Oriented Programming in C++_ with Applications in Computer Graphics (2001, Springer) [10.1007_978-1-4471-0289-2] - libgen.li.pdf
+/home/karantheog/contri/tp1/Cpp_books/Johnsonbaugh Richard, Kalin Martin. - Object Oriented Programming in C++ - libgen.li.pdf
+/home/karantheog/contri/tp1/Cpp_books/The Object Oriented Thought Process 3rd Edition.pdf
+/home/karantheog/Desktop/tp.txt

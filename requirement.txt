@@ -1,0 +1,7 @@
+watchdog
+boto3
+google-cloud-storage
+azure-storage-blob
+python-dotenv
+pyfiglet
+colorama
